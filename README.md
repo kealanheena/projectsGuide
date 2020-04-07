@@ -4,7 +4,9 @@ This is a collection of some of the projects that I've done after graduating fro
 
 ## [Studio Ghibli API](https://github.com/kealanheena/studio_ghibli_api)
 
-<img src="./img/studioGhibli.png" align="center"/>
+<div align="center">
+  <img src="./img/studioGhibli.png"/>
+</div>
 
 This is an app that displays all of the Studio Ghibli movies as well as their rating and release date using an API. You can change the order they are displayed in, you can choose to organise them by alphabetical order, rating(highest to lowest) and release date(newest to oldest).
 <br><br>
@@ -12,10 +14,27 @@ I did this project so that I could get a better grasp on how API's work so I gra
 
 ## [Calculator React](https://github.com/kealanheena/calculator_react)
 
-<img src="./img/calculator.png" align="center"/>
+
+<div align="center">
+  <img src="./img/calculator.png"/>
+</div>
 
 A simple Calculator app created in React using TDD(test driven development) with Jest and Enzyme.
 <br><br>
 The main reason I did this project was because I wanted to learn React and I found a blog that took you through the steps of making a calculator in react through TDD. So I worked my way through the blog using Enzyme and Jest to test it along the way. After doing that I was feeling quite confident about building something in React through TDD.
 
-## [Calculator React](https://github.com/kealanheena/calculator_react)
+## [Glucometer](https://github.com/kealanheena/glucometer)
+
+<div align="center">
+  <img src="./img/glucometer.png"/>
+</div>
+
+what is a glucometer?
+<br>
+A glucometer is a home measurement system you can use to test the amount of glucose(sugar) in your blood.
+<br>
+This glucometer doesn't check your blood sugars but it's based off the ACCU-CHEK Aviva Expert, which is a glucometer that calculates your bolus (the amount of units of insulin you need) based on the amount of carbs you are eating and your insulin ratio(this is known as carb counting). It's built in React through the TDD process using Enxyme and Jest.
+<br>
+The reason behind this project is somewhat more persomnal than the others. I'm a diabetic(that's how I know about glucometers) and I thought it would be a good idea to build an app that calculates your bolus to make carb counting easier because one day my glucometer broke. I do have a spare but they don't have the carb counting feature so I had to do that manually until I got a new glucometer. Obviously that was a huge inconvenience so I though why not make that feature into an app and thus this project was born. I was really glad to get it done and I got to test the react skills I had learned from the calculator.
+
+## Things I've Been Practicing
