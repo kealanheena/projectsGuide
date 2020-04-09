@@ -35,11 +35,11 @@ The main reason I did this project was because I wanted to learn React and I fou
 
 <br>
 what is a glucometer?
-<br>
+<br><br>
 A glucometer is a home measurement system you can use to test the amount of glucose(sugar) in your blood.
-<br>
+<br><br>
 This glucometer doesn't check your blood sugars but it's based off the ACCU-CHEK Aviva Expert, which is a glucometer that calculates your bolus (the amount of units of insulin you need) based on the amount of carbs you are eating and your insulin ratio(this is known as carb counting). It's built in React through the TDD process using Enxyme and Jest.
-<br>
+<br><br>
 The reason behind this project is somewhat more persomnal than the others. I'm a diabetic(that's how I know about glucometers) and I thought it would be a good idea to build an app that calculates your bolus to make carb counting easier because one day my glucometer broke. I do have a spare but they don't have the carb counting feature so I had to do that manually until I got a new glucometer. Obviously that was a huge inconvenience so I though why not make that feature into an app and thus this project was born. I was really glad to get it done and I got to test the react skills I had learned from the calculator.
 <br>
 
@@ -52,7 +52,7 @@ The reason behind this project is somewhat more persomnal than the others. I'm a
 
 <br>
 This was my first full-stack project using a MEN stack. It's a camping app where you can authenticate users, add, edit, view and delete campsites and comments on a campsite, and make a reservation.
-<br>
+<br><br>
 I started this project before makers to prepare me for the intensive bootcamp. I wanted to have a bit of understanding of software engineering before starting Makers so that I could hit the ground running. It was a Udemy course that taught HTML, CSS and JavaScript as well as some other things.
 <br>
 
