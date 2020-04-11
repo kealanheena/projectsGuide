@@ -61,3 +61,4 @@ I started this project before makers to prepare me for the intensive bootcamp. I
 - [JavaScript & JQuery](https://github.com/kealanheena/javascript_practice) - I did three Udemy courses to improve my JavaScript & JQuery and did a small project at the end of each.
 - [React](https://github.com/kealanheena/react) - I did a React course to get an understanding of React before starting any projects.
 - [Code Wars Katas](https://www.codewars.com/users/kealanheena) - I practice by doing Katas on Code Wars which helps improve my problem solving and logical thinking.
+- [Makers Reviews](https://github.com/kealanheena/review_three) - I've been doing reviews at Makers that help me improve my process.
