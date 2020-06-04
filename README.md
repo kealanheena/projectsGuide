@@ -62,3 +62,4 @@ I started this project before makers to prepare me for the intensive bootcamp. I
 - [React](https://github.com/kealanheena/react) - I did a React course to get an understanding of React before starting any projects.
 - [Code Wars Katas](https://www.codewars.com/users/kealanheena) - I practice by doing Katas on Code Wars which helps improve my problem solving and logical thinking.
 - [Makers Reviews](https://github.com/kealanheena/review_three) - I've been doing reviews at Makers that help me improve my process. These are small code examples that I do while a reviewer watches and takes notes and gives me feed back on my process.
+- [Python](https://github.com/kealanheena/learninng_python) - I built a small python project, a battle game with AI, to see what its like I quite liked it it was similar to Ruby but I decided I wanted to focus on JavaScript.
