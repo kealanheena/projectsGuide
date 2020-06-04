@@ -43,6 +43,23 @@ This glucometer doesn't check your blood sugars but it's based off the ACCU-CHEK
 The reason behind this project is somewhat more persomnal than the others. I'm a diabetic(that's how I know about glucometers) and I thought it would be a good idea to build an app that calculates your bolus to make carb counting easier because one day my glucometer broke. I do have a spare but they don't have the carb counting feature so I had to do that manually until I got a new glucometer. Obviously that was a huge inconvenience so I though why not make that feature into an app and thus this project was born. I was really glad to get it done and I got to test the react skills I had learned from the calculator.
 <br>
 
+## [Message Board](https://github.com/kealanheena/message_board)
+
+work in progress!!
+
+Message Board is a full-stack twitter clone where you can post messages on a message board. I't built in a MERN stack using Mocha and Chai to test it. It's my first MERN stack project!
+
+<br>
+
+
+## [Ecommerce](https://github.com/kealanheena/ecommerce)
+
+work in progress!!
+
+Ecommerce is a full-stack app that will be able to display, view and order products. It's built in a MERN stacusing Jest and Enzyme to test it. It's a project I'm making with my brother.
+
+<br>
+
 ## Before Makers
 ## [YelpCamp](https://kealan-heena-yelpcamp.herokuapp.com/)
 
