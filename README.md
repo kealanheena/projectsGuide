@@ -78,6 +78,6 @@ I started this project before makers to prepare me for the intensive bootcamp. I
 - [JavaScript & JQuery](https://github.com/kealanheena/javascript_practice) - I did three Udemy courses to improve my JavaScript & JQuery and did a small project at the end of each.
 - [React](https://github.com/kealanheena/react) - I did a React course to get an understanding of React before starting any projects.
 - [Code Wars Katas](https://www.codewars.com/users/kealanheena) - I practice by doing Katas on Code Wars which helps improve my problem solving and logical thinking.
-- [Makers Reviews](https://github.com/kealanheena/review_three) - I've been doing reviews at Makers that help me improve my process. These are small code examples that I do while a reviewer watches and takes notes and gives me feed back on my process.
+- [Makers Reviews](https://github.com/kealanheena/review_four) - I've been doing reviews at Makers that help me improve my process. These are small code examples that I do while a reviewer watches and takes notes and gives me feed back on my process.
 - [Python](https://github.com/kealanheena/learninng_python) - I built a python project, a battle game with AI, to see what its like I quite liked it it was similar to Ruby but I decided I wanted to focus on JavaScript.
 - [CI/Heroku](https://github.com/kealanheena/mern_project) - I decided to make a project template with heroku and circle CI set up on it to save time on set up.
