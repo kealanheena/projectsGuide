@@ -45,10 +45,14 @@ The reason behind this project is somewhat more persomnal than the others. I'm a
 
 ## [Message Board](https://github.com/kealanheena/message_board)
 
-work in progress!!
+<div align="center">
+  <img src="./img/yelpCamp.png"/>
+</div>
 
+<br>
 Message Board is a full-stack twitter clone where you can post messages on a message board. I't built in a MERN stack using Mocha and Chai to test it. It's my first MERN stack project!
-
+<br><br>
+I did this project to get some practice in with building a MERN project using TDD. It was the good to use a message board because it clearly demonstrates a Create, Read, Update and Delete(CRUD) system.
 <br>
 
 
