@@ -55,6 +55,13 @@ Message Board is a full-stack message board where you can post, view update and 
 I did this project to get some practice in with building a MERN project using TDD. It was the good to use a message board because it clearly demonstrates a Create, Read, Update and Delete(CRUD) system.
 <br>
 
+## [Todo_API](https://github.com/kealanheena/todo_tdd)
+
+<br>
+This is a Todo API which I tested using Jest and Supertest, you can get a todo, get a single todo, create a todo, update a todo and delete a todo using the appropriate routes. You can then call the todo which returns json which can be used to display the todos and thier status.
+<br><br>
+I did this project to get used to using API and also to practice intergration and unit testing using Jest and Supertest.
+<br>
 
 ## [Ecommerce](https://github.com/kealanheena/ecommerce)
 
